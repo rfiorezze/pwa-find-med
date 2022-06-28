@@ -1,0 +1,47 @@
+[
+    {
+        "categoria":"Remédios",
+        "produtos":[
+            {
+                "img":"imgs/produto_001.jpg",
+                "nome":"Paracetamol 750mg",
+                "descricao":"Paracetamol 750mg Com 20 Comprimidos Genérico Medquímica",
+                "preco":"15,90",
+                "url_comprar":"http://www.xxx.xcc./quant="
+            },
+            {
+                "img":"imgs/produto_002.jpg",
+                "nome":"Dipirona Monoidratada 500Mg",
+                "descricao":"Dipirona Monoidratada 500Mg Com 30 Comprimidos Genérico Prati Donaduzzi",
+                "preco":"13,90",
+                "url_comprar":"http://www.xxx.xcc./quant="
+            },
+            {
+                "img":"imgs/produto_003.jpg",
+                "nome":"Histamin Xarope Frasco 2mg/5ml 100ML",
+                "descricao":"Histamin 2mg/5ml xarope frasco com 100ml é um medicamento",
+                "preco":"18,75",
+                "url_comprar":"http://www.xxx.xcc./quant="
+            }            
+        ]
+    },
+    {
+        "categoria":"Higiene Pessoal",
+        "produtos":[
+            {
+                "img":"imgs/produto_004.jpg",
+                "nome":"Fralda Pampers Confort Sec G",
+                "descricao":"Fralda Pampers Confort Sec G contendo 60 unidades",
+                "preco":"101,12",
+                "url_comprar":"http://www.xxx.xcc./quant="
+            },
+            {
+                "img":"imgs/produto_005.jpg",
+                "nome":"Lenço Umedecido Macio Granado Bebê",
+                "descricao":"Lenço Umedecido Macio Granado Bebê contendo 50 unidades",
+                "preco":"14,99",
+                "url_comprar":"http://www.xxx.xcc./quant="
+            }        
+        ]
+    }    
+]
